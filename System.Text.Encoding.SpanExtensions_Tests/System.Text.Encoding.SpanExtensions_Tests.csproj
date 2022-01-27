@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\EncodingSpanExtensions\System.Text.Encoding.SpanExtensions.csproj" />
+    <ProjectReference Include="..\System.Text.Encoding.SpanExtensions\System.Text.Encoding.SpanExtensions.csproj" />
   </ItemGroup>
 
 </Project>
