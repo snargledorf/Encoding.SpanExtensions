@@ -1,13 +1,10 @@
-﻿using System;
-using System.Runtime.CompilerServices;
+﻿using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
-using System.Text;
 
-namespace EncodingSpanExtensions
+namespace System.Text
 {
-    public static class EncodingExtensions
+    public static class EncodingSpanExtensions
     {
-
         public static int GetByteCount(this Encoding @this, ReadOnlySpan<char> chars)
         {
             unsafe

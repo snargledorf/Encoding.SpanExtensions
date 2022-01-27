@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Authors>snargledorf</Authors>
+    <Description>Extension methods to implement the missing Span methods for the Encoding class</Description>
+    <PackageProjectUrl>https://github.com/snargledorf/EncodingSpanExtensions</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/snargledorf/EncodingSpanExtensions</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>Encoding,C#,Extension</PackageTags>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Memory" Version="4.5.4" />
+  </ItemGroup>
+
+</Project>
