@@ -8,8 +8,9 @@
     <PackageProjectUrl>https://github.com/snargledorf/EncodingSpanExtensions</PackageProjectUrl>
     <RepositoryUrl>https://github.com/snargledorf/EncodingSpanExtensions</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
-    <PackageTags>Encoding,C#,Extension</PackageTags>
+    <PackageTags>Encoding,Extension,Span,Memory</PackageTags>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
   <ItemGroup>
