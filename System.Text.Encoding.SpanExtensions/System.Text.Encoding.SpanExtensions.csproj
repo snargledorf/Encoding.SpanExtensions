@@ -9,6 +9,7 @@
     <RepositoryUrl>https://github.com/snargledorf/EncodingSpanExtensions</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageTags>Encoding,C#,Extension</PackageTags>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
